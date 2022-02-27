@@ -4,7 +4,7 @@ import Feed from './components/Feed';
 
 export default function App() {
   return (
-    <div>
+    <div className="App">
       <h1>データの表示</h1>
       <Feed />
     </div>
